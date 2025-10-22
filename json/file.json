@@ -1,0 +1,16 @@
+{
+    "Krakow": {
+        "lines": 1500,
+        "buses": 300,
+        "trams": 200,
+        "connectedStops": 4500,
+        "averageFrequency": 10,
+        "delays": 5,
+        "nightLines": 20,
+        "zones": 5,
+        "ticketTypes": 8,
+        "annualRidership": 120000000
+
+    }
+ 
+}
