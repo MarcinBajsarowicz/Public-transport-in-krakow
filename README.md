@@ -22,4 +22,4 @@ The table below provides a summary of key features of Cracow's public transport 
 | Bus            | City and outer districts| Mobile app, machines, kiosks | Medium – mix of diesel/electric|
 | Bike Rental    | City center and parks   | Mobile app only              | Very low – human-powered      |
 
-![Trams in Cracow](https://upload.wikimedia.org/wikipedia/commons/b/b7/StadlerTangoLajkonik%28HY857%29-UlicaBasztowa-POL%2C_Kraków.jpg)
+![Trams in Cracow](IMG/trajka.jpg) ![Buses in Cracow](IMG/busik.jpg) ![City bikes in Cracow](IMG/rower.jpg)
