@@ -9,7 +9,8 @@
         "nightLines": 20,
         "zones": 5,
         "ticketTypes": 8,
-        "annualRidership": 120000000
+        "annualRidership": 120000000,
+        "majortramlines": [4, 6, 8, 10, 14]
 
     }
  
