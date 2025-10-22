@@ -1,0 +1,40 @@
+<publicTransport>
+    <transport>
+        <type category="rail" popularity="high">Tram</type>
+        <coverage area="urban" frequency="frequent">City center and suburbs</coverage>
+        <ticket format="electronic" validity="20-90 minutes">Single ride, time-based</ticket>
+        <ecoLevel emission="low" energy="electric">High</ecoLevel>
+    </transport>
+    <transport>
+        <type category="bus" popularity="high">Bus</type>
+        <coverage area="urban-suburban" frequency="regular">Urban and suburban areas</coverage>
+        <ticket format="paper/electronic" validity="20-90 minutes">Single ride, time-based</ticket>
+        <ecoLevel emission="medium" energy="diesel/electric">Medium</ecoLevel>
+    </transport>
+    <transport>
+        <type category="bus" popularity="medium">Night Bus</type>
+        <coverage area="citywide" frequency="hourly">City center and major districts</coverage>
+        <ticket format="electronic" validity="night-only">Night fare</ticket>
+        <ecoLevel emission="medium" energy="diesel">Medium</ecoLevel>
+    </transport>
+    <transport>
+        <type category="pre-metro" popularity="growing">Fast Tram</type>
+        <coverage area="rapid corridors" frequency="frequent">Main transit corridors</coverage>
+        <ticket format="electronic" validity="standard fare">Standard fare</ticket>
+        <ecoLevel emission="low" energy="electric">High</ecoLevel>
+    </transport>
+    <transport>
+        <type category="bike" popularity="medium">Bike Rental</type>
+        <coverage area="central parks" frequency="on-demand">Central areas and parks</coverage>
+        <ticket format="mobile app" validity="hour-based">Mobile app rental</ticket>
+        <ecoLevel emission="none" energy="human">Very High</ecoLevel>
+    </transport>
+    <transport>
+        <type category="shuttle" popularity="low">Airport Shuttle</type>
+        <coverage area="city-airport" frequency="hourly">Cracow city – Balice Airport</coverage>
+        <ticket format="paper/electronic" validity="single trip">Airport fare</ticket>
+        <ecoLevel emission="high" energy="diesel">Low</ecoLevel>
+    </transport>
+</publicTransport>
+
+
