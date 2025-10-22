@@ -1,0 +1,24 @@
+[
+    {
+        "name_form": "road transport",
+        "main category": "car, bus, truck",
+        "sub category": "bike",
+        "pros": "flexibility, speed, accessibility",
+        "cons": "traffic congestion, pollution, limited capacity",
+    }
+    {
+        "name_form": "rail transport",
+        "main category": "train, tram",
+        "sub category": "none",
+        "pros": "high capacity, energy efficiency, reliability",
+        "cons": "high infrastructure cost, limited routes, less flexibility",
+    
+    }
+    {
+        "name_form": "air transport",
+        "main category": "airplane, helicopter",
+        "sub category": "drone",
+        "pros": "speed, long-distance travel, global connectivity",
+        "cons": "high cost, environmental impact, weather dependency",
+    }
+]
