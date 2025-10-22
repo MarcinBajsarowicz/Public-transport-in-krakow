@@ -1,0 +1,6 @@
+line,start time,end time,type
+1,05:00,23:00,tram
+2,05:00,23:30,bus
+3,06:00,22:00,tram
+4,05:30,23:15,bus
+5,06:15,21:45,tram

@@ -1,0 +1,38 @@
+<publicTransport>
+    <transport>
+        <type>Tram</type>
+        <coverage>City center and suburbs</coverage>
+        <ticket>Single ride, time-based</ticket>
+        <ecoLevel>High</ecoLevel>
+    </transport>
+    <transport>
+        <type>Bus</type>
+        <coverage>Urban and suburban areas</coverage>
+        <ticket>Single ride, time-based</ticket>
+        <ecoLevel>Medium</ecoLevel>
+    </transport>
+    <transport>
+        <type>Night Bus</type>
+        <coverage>City center and major districts</coverage>
+        <ticket>Night fare</ticket>
+        <ecoLevel>Medium</ecoLevel>
+    </transport>
+    <transport>
+        <type>Fast Tram (pre-metro)</type>
+        <coverage>Main transit corridors</coverage>
+        <ticket>Standard fare</ticket>
+        <ecoLevel>High</ecoLevel>
+    </transport>
+    <transport>
+        <type>Bike Rental</type>
+        <coverage>Central areas and parks</coverage>
+        <ticket>Mobile app rental</ticket>
+        <ecoLevel>Very High</ecoLevel>
+    </transport>
+    <transport>
+        <type>Airport Shuttle</type>
+        <coverage>Cracow city – Balice Airport</coverage>
+        <ticket>Airport fare</ticket>
+        <ecoLevel>Low</ecoLevel>
+    </transport>
+</publicTransport>
